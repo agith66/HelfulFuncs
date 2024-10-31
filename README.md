@@ -1,3 +1,3 @@
-# HelfulFuncs
+# Project Demo
 
-### Hei Brothers
+This project includes sample code and helpful utilities.
